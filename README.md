@@ -61,7 +61,7 @@ $ git clone https://github.com/benardop/hello-rails-back-end.git
 ```
 ### Clone the front-end repository:
 ```
-$ git clone https://github.com/benardop/hello-reat-front-end.git
+Clone [this repository](https://github.com/benardop/hello-reat-front-end.git)
 ```
 ### Install
 
